@@ -13,7 +13,7 @@ Este proyecto es un sistema de monitoreo de vibración en tiempo real diseñado 
 * **Arquitectura obusta:** Implementación mediante una **Máquina de Estados Finitos (FSM)** para separar las tareas de lectura, procesamiento y visualización.
 * **Bus I2C compartido:** Tanto el sensor como la pantalla conviven en el mismo bus (PB8-SCL y PB9-SDA).
 
-## 📂 Estructura del Código
+## Estructura del Código
 * `main.c`: logica con maquina de estados
 * `fsm.c/h`: flujo para el control de la fsm
 * `acelerometro.c/h`: configuracion y lectura del acelerometro.

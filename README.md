@@ -28,7 +28,6 @@ El sistema clasifica la vibración en tres estados según la magnitud detectada:
 ---
 
 ## DDEMO
-Puedes ver el sistema funcionando en vivo, desde la inicialización hasta las pruebas de vibración crítica en el siguiente enlace:
 
 [![Ver Video en YouTube](https://img.shields.io/badge/YouTube-Ver%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/Ijlfkwhf0U4)
 

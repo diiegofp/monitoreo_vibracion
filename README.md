@@ -30,6 +30,7 @@ El sistema clasifica la vibración en tres estados según la magnitud detectada:
 ## DDEMO (Explicado de mejor manera)
 
 [![Ver Video en YouTube](https://img.shields.io/badge/YouTube-Ver%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/Ijlfkwhf0U4)
+[![Ver Video en YouTube](https://img.shields.io/badge/YouTube-Ver%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/aYwrgfikxsI)
 
 ---
 
